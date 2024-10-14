@@ -13,7 +13,7 @@ Medit is an audio-guided meditation application that allows users to explore and
 
 ## Demo
 
-[https://](#)
+[https://medit-omega.vercel.app](#)
 
 ## Installation
 
